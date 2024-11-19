@@ -9,23 +9,18 @@ Here, you'll find a curated collection of free license keys for various versions
 
 ## Note: Read Properly 📑
 
-Please be aware that these license keys are for educational and non-commercial use only. Using them in a production environment or for any commercial purposes may violate VMware's licensing terms. It's essential to respect and adhere to VMware's policies to ensure the integrity of their products and continued support for the community.
-
-## * Take any key; if one key is not available, try with another key... Hopefully, you'll gain access.!! 😊🚩
-
-## Do's🤩:
-
 1. Use the license keys for educational and non-commercial purposes to explore and learn about VMware vSphere.
 2. Contribute by adding new keys or updating existing ones to keep the repository current.
 3. Share your experiences and knowledge with the community to enhance the learning process.
 
-## Don't😈:
+## Don't 😈:
 
 1. Use the license keys in a production environment or for any commercial purposes.
-2. Share or distribute the license keys outside of this GitHub repository.
 3. Violate VMware's licensing terms and policies.
 
 Remember to regularly check for updates and contribute responsibly to maintain the repository's integrity and usefulness for the community. Happy virtualizing!
+
+## Any issue?
 
 - If you have a problem comment and people will try to help you!
 - No virus ⚠🛡
