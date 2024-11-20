@@ -1,40 +1,10 @@
-# VMware vSphere 6 and 7 ESXi Licence Keys
+<div align="center">
+<img src = "https://github.com/user-attachments/assets/95980d78-419b-418d-85d9-5c536bfcb11f" />
+</div>
 
-![image](https://github.com/user-attachments/assets/95980d78-419b-418d-85d9-5c536bfcb11f)
-
-
-# Welcome to the VMware vSphere 6 and 7 ESXi License Keys!😎
-
-Here, you'll find a curated collection of free license keys for various versions, including vSphere 6 and 7. These keys are provided for educational and non-commercial purposes, allowing you to explore and learn more about VMware's powerful virtualization platform.
-
-## Note: Read Properly 📑
-
-1. Use the license keys for educational and non-commercial purposes to explore and learn about VMware vSphere.
-2. Contribute by adding new keys or updating existing ones to keep the repository current.
-3. Share your experiences and knowledge with the community to enhance the learning process.
-
-## Don't 😈:
-
-1. Use the license keys in a production environment or for any commercial purposes.
-3. Violate VMware's licensing terms and policies.
-
-Remember to regularly check for updates and contribute responsibly to maintain the repository's integrity and usefulness for the community. Happy virtualizing!
-
-## Any issue?
-
-- If you have a problem comment and people will try to help you!
-- No virus ⚠🛡
-- No spam just license key 🔐🔑
-- Even these keys are works 6.x or any further versions ....🎊✨
-- 🌟 Hey there! Mind sprinkling some stars on my repo? It's like giving it a digital high-five! 🚀
-### If you've found our work helpful, I would greatly appreciate it if you could take a moment to give a star ⭐. Your feedback is valuable and helps us improve. Thank you!
-
-## Doubts and Questions🙆‍♂️
-
- - If you have any doubts related to this or any other matter, please don't hesitate to let me know. I'm here to help! 😊
- - If you need any other free repo like this please drop your idea on issues..
-
-<br>
+<div align="center">
+<h1>Free VMware vSphere 6 and 7 ESXi Licence Keys</h1>
+</div>
 
 ## VMware vSphere 6 Enterprise Plus	
 
@@ -112,9 +82,7 @@ HF6E2-AU3DQ-488E9-E08N0-CUAQ0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-# If you've found our work helpful,🤝 I would greatly appreciate it if you could take a moment to give a star ⭐. Your feedback is valuable and helps us improve. Thank you!🙏
 
-<br>
 
 
 ## Download FREE iso file for vSphere Hypervisor (ESXi 6.x & 7.x)
@@ -131,34 +99,47 @@ No Login or Account Registration Required.!!  Direct Download😊😎👍🤝
 | esxi-vSphere-8.0b.tgz | [click here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/VMWare%20ESXi/esxi-vSphere-8.0b.tgz) | 860 MB
 | VMWare vCenter 7.0 | [click here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/VMWare%20vCenter/vcenter-7.0U1D.tgz) | 5.5 GB
 
-
-### Need Help
-
-- Organization : [Follow link](https://github.com/cyberskill-world)
-- Personal GitHub : [Follow link](https://github.com/uziii2208)
-
-## Contact
-
+# Any issue?
+```
+- If you have a problem comment and people will try to help you!
+- No virus ⚠🛡
+- No spam just license key 🔐🔑
+- Even these keys are works below 17 or any further PRO versions ....🎊✨
+- 🌟 Hey there! Mind sprinkling some stars on my repo? It's like giving it a digital high-five! 🚀
+```
+# Contact
+```
 Feel free to contact me if you have any questions or suggestions.
-[Contact via Discord](https://discord.com/users/863239313268670486)
+```
+<div align="center">
+<p>
+  <img src="https://github.com/user-attachments/assets/72d9c8f7-cda9-431b-8e85-5c803f1d3dd4" width="32" alt="Facebook Icon"/>
+   <a href="https://www.facebook.com/corbierevn" style="text-decoration: none; font-size: 14px;">
+    Contact via Facebook
+  <img src="https://github.com/user-attachments/assets/72d9c8f7-cda9-431b-8e85-5c803f1d3dd4" width="32" alt="Facebook Icon"/>
+  </a>
+</p>
 
-[Contact via Steam](https://steamcommunity.com/id/corbiere)
+<p>
+  <img src="https://github.com/user-attachments/assets/613287bd-8296-45d7-840b-f2763691fe48" width="32" alt="Discord Icon"/>
+   <a href="https://discord.com/users/863239313268670486" style="text-decoration: none; font-size: 14px;">
+    Contact via Discord
+  <img src="https://github.com/user-attachments/assets/613287bd-8296-45d7-840b-f2763691fe48" width="32" alt="Discord Icon"/>
+  </a>
+</p>
 
-
-## Creator [🔝](#VMware-ESXi-Licence-Keys)
-
-- [Creator here](https://github.com/uziii2208)
-
-<img src="https://github.com/uziii2208.png?size=115" width="115">
-
-<br>
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-<br>
-
+<p>
+  <img src="https://github.com/user-attachments/assets/27cea862-2a59-42a1-86e4-9e5ffb6f504f" width="32" alt="Steam Icon"/>
+   <a href="https://steamcommunity.com/id/corbiere" style="text-decoration: none; font-size: 14px;">
+    Contact via Steam
+  <img src="https://github.com/user-attachments/assets/27cea862-2a59-42a1-86e4-9e5ffb6f504f" width="32" alt="Steam Icon"/>
+  </a>
+</p>
+</div>
 
  <!-- Support Me --> 
-
-
-<div align="center">
+ <div align="center">
     <img src="https://github.com/user-attachments/assets/f6a6e4e5-50e6-41d1-81b8-986edaa1a30e" alt="GIF Image">
 </div>
+
+ # If you've found our work helpful,🤝 I would greatly appreciate it if you could take a moment to give a star ⭐. Your feedback is valuable and helps us improve. Thank you!🙏
